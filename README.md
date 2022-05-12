@@ -11,3 +11,7 @@
   - lcd : lcd를 사용하기 위한 테스트
   - lcd_BT : 특정 숫자 또는 문자를 블루투스로 입력받았을 때 lcd에서 그에 맞는 문자열 출력
   - lcd_String : 특정 숫자가 아닌 전송하고자 하는 문구를 블루투스로 전송하고 lcd에서 해당 문자열을 출력
+  - DC_Motor_control : DC모터 동작 소스
+  - DC_Motor_Serial_Monitor : 시리얼 모니터에서 DC모터를 제어하는 소스
+  - DC_Motor_BT : DC모터를 제어하는 소스를 블루투스와 연결하여 구성
+  - DC_Motor_Speed_Hold : DC모터가 일정한 속도를 유지하며 동작하게 하는 소스
