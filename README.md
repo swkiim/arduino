@@ -15,3 +15,5 @@
   - DC_Motor_Serial_Monitor : 시리얼 모니터에서 DC모터를 제어하는 소스
   - DC_Motor_BT : DC모터를 제어하는 소스를 블루투스와 연결하여 구성
   - DC_Motor_Speed_Hold : DC모터가 일정한 속도를 유지하며 동작하게 하는 소스
+  - step_motor : stepper.h 라이브러리 없이 Binary 코드 배열로 스텝모터 동작
+  - step_control : Serial Monitor에서 값을 입력 후 입력받은 값에 따라 시계방향과 반시계방향으로 스텝모터가 회전
