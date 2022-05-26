@@ -17,3 +17,8 @@
   - DC_Motor_Speed_Hold : DC모터가 일정한 속도를 유지하며 동작하게 하는 소스
   - step_motor : stepper.h 라이브러리 없이 Binary 코드 배열로 스텝모터 동작
   - step_control : Serial Monitor에서 값을 입력 후 입력받은 값에 따라 시계방향과 반시계방향으로 스텝모터가 회전
+  - dht11 : 라이브러리를 사용하지 않고 dht11 온습도 센서를 작동하는 코드
+  - dht11_lib : dht11 온습도 센서 라이브러리를 활용한 코드
+  - dht11_lcd : 라이브러리 없는 dht11 센서와 lcd를 사용한 코드
+  - dht11_lcd_lib : 라이브러리를 사용해 dht11과 lcd를 활용한 코드
+  - dht11_lcd_lib_bt : dht11과 lcd, 블루투스를 활용해 모바일에서도 센서 측정 값 확인 가능한 코드
