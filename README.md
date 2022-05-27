@@ -22,3 +22,11 @@
   - dht11_lcd : 라이브러리 없는 dht11 센서와 lcd를 사용한 코드
   - dht11_lcd_lib : 라이브러리를 사용해 dht11과 lcd를 활용한 코드
   - dht11_lcd_lib_bt : dht11과 lcd, 블루투스를 활용해 모바일에서도 센서 측정 값 확인 가능한 코드
+## arduino project(smart-home)
+  - 회로도
+
+![Smart Home Circuit Diagram](https://user-images.githubusercontent.com/87691039/170607961-f90bcd82-f1a5-4a9d-af8c-a71d14ee0fde.png)
+  
+  - 4x4 키패드
+
+![4x4 Keypad List](https://user-images.githubusercontent.com/87691039/170608035-6fd56463-b080-4f49-adbe-a9cfb7297ea4.png)
