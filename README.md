@@ -22,6 +22,8 @@
   - dht11_lcd : 라이브러리 없는 dht11 센서와 lcd를 사용한 코드
   - dht11_lcd_lib : 라이브러리를 사용해 dht11과 lcd를 활용한 코드
   - dht11_lcd_lib_bt : dht11과 lcd, 블루투스를 활용해 모바일에서도 센서 측정 값 확인 가능한 코드
+  - ultrasonic : 초음파센서로 거리를 감지하는 코드
+  - ultrasonic_LCD : 초음파센서로 측정한 거리를 LCD모니터로 출력하는 코드
 ## arduino project(smart-home)
   - 회로도
 
@@ -30,3 +32,12 @@
   - 4x4 키패드
 
 ![4x4 Keypad List](https://user-images.githubusercontent.com/87691039/170608035-6fd56463-b080-4f49-adbe-a9cfb7297ea4.png)
+
+## arduino project(double lock)
+  - 회로도
+
+![image](https://user-images.githubusercontent.com/87691039/172874547-0b335508-1767-4d68-94d0-50dd65ce5b2e.png)
+
+  - 외관 모델링
+
+![image](https://user-images.githubusercontent.com/87691039/172874800-16c3c2b8-c532-4ee4-ae52-979ae7975563.png)
